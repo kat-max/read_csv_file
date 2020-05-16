@@ -1,0 +1,9 @@
+venv
+.idea
+best_score.txt
+get_google.py
+hello.txt
+random_number_with_files.py
+read_file.py
+requirements.txt
+write_to_file.py
